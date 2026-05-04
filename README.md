@@ -32,4 +32,4 @@ A fórmula utilizada para o cálculo do GET é:
 1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/downloads/) instalado na sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/gabrielfrancaof/calculadora-tmb-java.git](https://github.com/gabrielfrancaof/calculadora-tmb-java.git)
+   git clone https://github.com/gabrielfrancaof/calculadora-tmb-java.git
